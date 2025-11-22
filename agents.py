@@ -6,7 +6,7 @@ from tools import GoogleSearchTool, MarketDataTool, TechnicalAnalysisTool
 logger = setup_logger("Agents")
 
 # Configure Gemini
-genai.configure(api_key=AIzaSyAJcp2hgegISj3njE3qyH1Nghi0Fuu7r4c)
+genai.configure(api_key=GOOGLE_API_KEY)
 
 class Agent:
     def __init__(self, name, role):
@@ -109,3 +109,4 @@ class SynthesizerAgent(Agent):
         4. Conclusion
         """
         return self.generate_response(prompt)
+
