@@ -1,3 +1,4 @@
+![Gemini_Generated_Image_ojsgj1ojsgj1ojsg 1](https://github.com/user-attachments/assets/ab064121-398b-4417-8f89-f7da35ed3b6c)
 # MarketPulse — Multi‑Agent Investment Analysis System
 
 **MarketPulse** is an institutional‑grade, multi‑agent platform that automates equity research, quantitative modeling, and risk evaluation. By mimicking the workflow of a professional investment committee, the system delegates specialized tasks to independent agents powered by Google Gemini, delivering scalable, consistent, and holistic investment analysis with minimal manual effort.
